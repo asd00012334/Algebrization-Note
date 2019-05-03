@@ -1,5 +1,5 @@
 # Algebrization-Note
-### Author: Yu-Hsuan Huang (Taylor Huang) and Songfeng Wu
+#### Author: Yu-Hsuan Huang (Taylor Huang) and Songfeng Wu
 
 A report about reading the paper, "Algebrization: A New Barrier in Complexity," by S Aaranson and A Wigderson.
 This paper is about complexity theory. The authors introduced a new notion called "Algebrization" that gives
